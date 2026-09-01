@@ -114,8 +114,12 @@ Data Analysis | Machine Learning | Digital Humanism Research
 
 #### Acknowledgment
 
-I would like to express my sincere gratitude to Dr. Farshid Shirafkan for his valuable guidance, inspiring teaching, and continuous support throughout this machine learning project. His practical approach to data analysis and machine learning greatly enhanced my understanding of predictive modeling and feature engineering.
+Throughout my academic and professional journey, I have had the privilege of learning from many outstanding professors and mentors. Many of them taught me how to work with data, analyze information, and understand patterns. However, Dr. Farshid Shirafkan taught me something deeper: how to immerse myself in data.
 
-This project was completed as part of my learning journey under his instruction, and I am deeply grateful for the knowledge and experience he shared.
+While others showed me how to communicate with data, he taught me how to think through data, question assumptions, explore hidden relationships, and discover the stories that data can tell. His approach transformed data analysis from a technical task into an intellectual journey of exploration and insight.
 
-LinkedIn: Dr. Farshid Shirafkan
+This project reflects not only the technical skills I have learned, but also the mindset of curiosity and deep analytical thinking that I developed under his guidance.
+
+I sincerely thank Dr. Farshid Shirafkan for his mentorship, inspiration, and dedication to teaching.
+
+LinkedIn: @Dr. Farshid Shirafkan
