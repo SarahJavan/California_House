@@ -27,6 +27,7 @@ head()
 describe()
 shape
 Missing value analysis
+
 2. Data Cleaning
 
 Missing values were identified and removed to ensure data quality before model training.
