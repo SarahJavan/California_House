@@ -116,6 +116,7 @@ When the regression model was trained using only these three most important feat
 Interestingly, when additional features with lower importance were included in the model, the MSE gradually decreased. Since a lower MSE indicates a smaller prediction error, this suggests that although these additional features had relatively low individual importance, they still contributed useful information to the regression model.
 
 This experiment also shows that feature importance should not be interpreted as meaning that low-importance features are necessarily useless. Their combined contribution may still improve the predictive performance of the model.
+
 Author
 Sara JavanAmoli
 Data Analysis | Machine Learning | Digital Humanism Research
