@@ -63,6 +63,7 @@ from sklearn.linear_model import LinearRegression
 
 model = LinearRegression()
 model.fit(X_train, y_train)
+
 6. Model Evaluation
 
 Model performance was evaluated using Mean Squared Error (MSE):
@@ -107,10 +108,16 @@ Comparison with advanced regression models such as:
 Random Forest Regressor
 XGBoost Regressor
 Gradient Boosting Regressor
+The feature importance analysis showed that three features had the highest importance in predicting the target variable.
+
+When the regression model was trained using only these three most important features,
+#### the Mean Squared Error (MSE) was approximately 5.2.
+
+Interestingly, when additional features with lower importance were included in the model, the MSE gradually decreased. Since a lower MSE indicates a smaller prediction error, this suggests that although these additional features had relatively low individual importance, they still contributed useful information to the regression model.
+
+This experiment also shows that feature importance should not be interpreted as meaning that low-importance features are necessarily useless. Their combined contribution may still improve the predictive performance of the model.
 Author
-
 Sara JavanAmoli
-
 Data Analysis | Machine Learning | Digital Humanism Research
 
 #### Acknowledgment
